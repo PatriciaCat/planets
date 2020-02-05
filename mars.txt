@@ -1,5 +1,10 @@
 Cold and dry, but everything is my favority colour.
+<<<<<<< HEAD
 The two moons will
  be a problem for wolfam
 Blabla
 
+=======
+The two moons may be a problem for wolfam
+Lala
+>>>>>>> cb4929e8734287e2cfb9f02d655030afa9d8b4bc
